@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl S05_021_Ext_Leaf.005_Banana_Tree_tex_03.jpg.007_Banana_Tree_tex
+Ns 998.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Banana_Tree_tex_03.jpg
+
+newmtl S05_021_Ext_Leaf.007_Banana_Tree_tex_02.jpg.001
+Ns 786.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Banana_Tree_tex_02.jpg
+
+newmtl S05_021_Ext_Leaf.007_Banana_Tree_tex_02.jpg.005
+Ns 786.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Banana_Tree_tex_02.jpg
+
+newmtl S05_021_Ext_Leaf.007_Banana_Tree_tex_03.jpg.010
+Ns 786.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Banana_Tree_tex_03.jpg
+
+newmtl S05_021_Ext_M1.007
+Ns 935.294118
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Banana_Tree_tex_03.jpg
+
+newmtl bark.000
+Ns 86.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.490312 0.506527
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd palmbark.jpg
